@@ -1,4 +1,4 @@
-pyrogram1.4.16
+pyrogram
 tgcrypto
 py-tgcalls
 python-dotenv
